@@ -1,5 +1,5 @@
 Slots = {
-    PointSlot = 'Slot3',
+    PointSlot = 'Slot1',
     NamekianSlot = 'Slot2',
 }
 
